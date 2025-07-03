@@ -1,6 +1,8 @@
 
 # 🗑️ Trash Dash - Degen Racing on Gorbagana
 
+X post; https://x.com/0lanrewajuAbbas/status/1940762061501542778
+
 **A fast-paced multiplayer racing game where degens collect $GOR tokens in a digital landfill!**
 
 Race through a neon-lit digital wasteland, collect $GOR tokens, dodge toxic obstacles, and dominate the Gorbagana testnet leaderboard. Built for speed, designed for degens, optimized for maximum hype! 🚀
@@ -34,7 +36,7 @@ Race through a neon-lit digital wasteland, collect $GOR tokens, dodge toxic obst
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/sabbCodes/trash-dash-degen-race
 cd trash-dash
 
 # 2. Install dependencies
@@ -71,7 +73,7 @@ Configure your Gorbagana testnet RPC endpoint:
 
 ```javascript
 // Add to your wallet or RPC configuration
-const GORBAGANA_RPC = "https://testnet-rpc.gorbagana.com";
+const GORBAGANA_RPC = "https://rpc.gorbagana.wtf";
 ```
 
 ### Required Dependencies for Blockchain Integration
